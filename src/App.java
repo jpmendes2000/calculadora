@@ -67,10 +67,15 @@ public class App {
             case "T", "t":
                 System.out.println("Primeiro número");
                     int Tabuada = ler.nextInt();
-                System.out.println("até que o número");
+                System.out.println("até o número");
                     int numberTabuada = ler.nextInt();
-
-                    
+                
+                    int multiplicador = 0;
+                while(multiplicador <= 10) {
+                    int resultado = entrada * multiplicador;
+                    System.out.println(resultado);
+                    multiplicador++;
+                    }
                 System.out.println("");
 
                 break;
