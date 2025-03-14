@@ -71,7 +71,7 @@ public class App {
                     int numberTabuada = ler.nextInt();
                 
                     int multiplicador = 0;
-                while(multiplicador <= 10) {
+                while(multiplicador <= numberTabuada) {
                     int resultado = entrada * multiplicador;
                     System.out.println(resultado);
                     multiplicador++;
