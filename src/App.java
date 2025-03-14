@@ -73,7 +73,7 @@ public class App {
                     int multiplicador = 0;
                 while(multiplicador <= numberTabuada) {
                     int resultado = entrada * multiplicador;
-                    System.out.println(resultado);
+                    System.out.println(Tabuada + " x " + numberTabuada + " = " + resultado);
                     multiplicador++;
                     }
                 System.out.println("");
