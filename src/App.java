@@ -72,8 +72,8 @@ public class App {
                 
                     int multiplicador = 0;
                 while(multiplicador <= numberTabuada) {
-                    int resultado = entrada * multiplicador;
-                    System.out.println(Tabuada + " x " + numberTabuada + " = " + resultado);
+                    int resultado = Tabuada * multiplicador;
+                    System.out.println(Tabuada + " x " + multiplicador + " = " + resultado);
                     multiplicador++;
                     }
                 System.out.println("");
