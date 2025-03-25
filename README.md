@@ -2,13 +2,13 @@
 
 <h2>Objetivos</h2>
 <ul>
-  <li>( X ) - Função "somar"</li>
-  <li>( X ) - Função "subtrair"</li>
-  <li>( X ) - Função "dividir"</li>
-  <li>( X ) - Função "multiplicação"</li>
-  <li>( X ) - Função "tabuada"</li>
-  <li>( X ) - Função "raiz quadrada"</li>
-  <li>( - ) - Função "bhaskara"</li>
+  <li> - Função "somar"</li>
+  <li> - Função "subtrair"</li>
+  <li> - Função "dividir"</li>
+  <li> - Função "multiplicação"</li>
+  <li> - Função "tabuada"</li>
+  <li> - Função "raiz quadrada"</li>
+  <li> - Função "bhaskara"</li>
 </ul>
 
 ##
