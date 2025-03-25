@@ -8,6 +8,7 @@ public class App {
             System.out.println("S - Soma");
             System.out.println("M - Subtração");
             System.out.println("D - Divisão");
+            System.out.println("Q - Multiplicação");
             System.out.println("T - Tabuada");
             System.out.println("R - Raiz Quadrada");
             System.out.println("B - Bhaskara");
@@ -62,6 +63,20 @@ public class App {
                     System.out.println(valorDivUm + " / " + valorDivDois + " = " + divTotal);
 
                     break;
+
+
+
+                case "Q", "q", "multiplicacao", "vezes", "MULTIPLICACAO", "VEZES":
+                        System.out.println("Primeiro valor");
+                        int multUM = ler.nextInt();
+                        System.out.println("Segundo valor");
+                        int multDOIS = ler.nextInt();
+
+                        int vezes = multUM * multDOIS;
+
+                        System.out.println(multUM + " x " + multDOIS + " = " + vezes);
+                    break;
+
 
 
 
