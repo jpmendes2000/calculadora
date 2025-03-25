@@ -1,11 +1,11 @@
-<h1 align="center">Projeto de calculado para fins de estudos</h1>
+<h1 align="center">Projeto de calculadora para fins de estudos</h1>
 
 <h2>Objetivos</h2>
 <ul>
   <li> - Função "somar"</li>
   <li> - Função "subtrair"</li>
   <li> - Função "dividir"</li>
-  <li> - Função "multiplicação"</li>
+  <li> - Função "multiplicar"</li>
   <li> - Função "tabuada"</li>
   <li> - Função "potência"</li>
   <li> - Função "raiz quadrada"</li>
