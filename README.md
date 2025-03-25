@@ -5,6 +5,7 @@
   <li>( X ) - Função "somar"</li>
   <li>( X ) - Função "subtrair"</li>
   <li>( X ) - Função "dividir"</li>
+  <li>( X ) - Função "multiplicação"</li>
   <li>( X ) - Função "tabuada"</li>
   <li>( - ) - Função "raiz quadrada"</li>
   <li>( - ) - Função "bhaskara"</li>
