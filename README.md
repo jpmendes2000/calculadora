@@ -7,7 +7,7 @@
   <li>( X ) - Função "dividir"</li>
   <li>( X ) - Função "multiplicação"</li>
   <li>( X ) - Função "tabuada"</li>
-  <li>( - ) - Função "raiz quadrada"</li>
+  <li>( X ) - Função "raiz quadrada"</li>
   <li>( - ) - Função "bhaskara"</li>
 </ul>
 
@@ -19,6 +19,7 @@
   <li><a href="https://code.visualstudio.com">Visual Studio Code</a></li><br>
 
   <li><a href="https://www.w3schools.com/java/java_while_loop_do.asp">Do e While</a></li>
+  <li><a href="https://www.w3schools.com/jsref/jsref_sqrt.asp">Math sqrt</a></li>
   <li><a href="https://www.w3schools.com/java/java_user_input.asp">Scanner</a></li>
   <li><a href="https://www.w3schools.com/java/java_switch.asp">Switch</a></li>
 </ul>
