@@ -10,6 +10,7 @@ public class App {
             System.out.println("D - Divisão");
             System.out.println("Q - Multiplicação");
             System.out.println("T - Tabuada");
+            System.out.println("P - Potência");
             System.out.println("R - Raiz Quadrada");
             System.out.println("B - Bhaskara");
             System.out.println("");
@@ -95,6 +96,18 @@ public class App {
                     System.out.println("");
 
                     break;
+
+
+
+                case "p", "P", "potencia", "POTENCIA": 
+                    System.out.println("Digite a potência");
+                    int potencia = ler.nextInt();
+                    System.out.println("Digite a base");
+                    int base = ler.nextInt();
+
+                    double potenciaaa = Math.pow(potencia, base);
+                    System.out.println(potenciaaa);
+                break;
 
                 case "R", "r", "raiz", "raiz quadrada", "RAIZ", "RAIZ QUADRADA":
                     System.out.println("Escreva o radicando da Raiz");
