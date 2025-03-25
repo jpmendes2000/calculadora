@@ -117,8 +117,19 @@ public class App {
                 System.out.println("Digite o valor 'c'");
                     int BhasC = ler.nextInt();
 
+                int parteUM = 4 * BhasA * BhasC;
+                double parteDOIS = Math.pow(BhasB,2);
+                double parteTRES = parteDOIS - parteUM;
+                double parteQuatroP = -BhasB + parteTRES;
+                double parteQuatroN = -BhasB - parteTRES;
 
-                    
+                int parteCINCO = 2 * BhasA;
+                
+                double parteSeisP = parteQuatroP / parteCINCO;
+                double parteSeisN = parteQuatroN / parteCINCO;
+
+                System.out.println("resultado positivo: " + parteSeisP);
+                System.out.println("resultado negativo: " + parteSeisN);
                     break;
 
                 default:
