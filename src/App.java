@@ -97,26 +97,28 @@ public class App {
                     break;
 
                 case "R", "r", "raiz", "raiz quadrada", "RAIZ", "RAIZ QUADRADA":
-                    System.out.println("Escreva o índice da Raiz");
-                        int indiceRaiz = ler.nextInt();
                     System.out.println("Escreva o radicando da Raiz");
                         int radicandoRaiz = ler.nextInt();
+                        double raizQuadrada = Math.sqrt(radicandoRaiz);
 
-                        int potencia = 0;
-                    while (potencia <= indiceRaiz) {
-                        int resultPotencia = indiceRaiz * potencia;
-                        potencia++;
-                    }
-
+                        System.out.println(raizQuadrada);
                     
                     break;
 
                 case "bascara", "BASCARA" :
-                System.out.println("ESCREVE DIREITO SEU PORRA!!!");
+                System.out.println("Escreveu errado!!");
                     break;
 
                 case "B", "b", "bhaskara", "BHASKARA":
-                System.out.println("7");
+                System.out.println("Digite o valor 'a'");
+                    int BhasA = ler.nextInt();
+                System.out.println("Digite o valor 'b'");
+                    int BhasB = ler.nextInt();
+                System.out.println("Digite o valor 'c'");
+                    int BhasC = ler.nextInt();
+
+
+                    
                     break;
 
                 default:
